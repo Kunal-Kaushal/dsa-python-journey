@@ -1,4 +1,4 @@
-# DSA Solutions — @Kunal-Kaushal
+# DSA Solutions
 
 Welcome to my Data Structures & Algorithms repository.
 
